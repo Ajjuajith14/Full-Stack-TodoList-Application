@@ -57,24 +57,7 @@ Dependices that were used
 ### 3)com.h2database
 ### 4)spring-boot-starter-validation
 ### 5)spring-boot-devtools
-### 6)spring-boot-starter-test**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### 6)spring-boot-starter-test
 
 # Getting Started with Create React App
 
