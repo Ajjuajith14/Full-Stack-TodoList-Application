@@ -1,0 +1,62 @@
+label, input, button {
+      margin: 10px;
+      padding: 5px;
+
+}
+
+.Login{
+      margin: 10px;
+      padding: 10px;
+      border-radius: 20px;
+}
+.Footer {
+
+      bottom: 20;
+      position: absolute;
+      width: 90%;
+      height: 40px;
+
+}
+
+.Login{
+      background-color: bisque;
+      position: relative;
+}
+
+.WelcomeComponent{
+      background-color: antiquewhite;
+      border-radius: 20px;
+      position: relative;
+
+}
+
+.wc{
+      font-style: oblique;
+      font-weight: 500;
+      font: bold;
+}
+
+.container {
+      background-color: rgb(146, 179, 216);
+      border-radius: 5px;
+      position: relative;
+      height: auto;
+
+
+}
+
+.Todotable{
+      background-color: antiquewhite;
+      border-radius: 20px;
+      position: relative;
+
+}
+
+.im1{
+      border-radius: 20px;
+}
+
+
+
+
+
