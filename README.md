@@ -1,4 +1,4 @@
-![image](https://github.com/Ajjuajith14/app_todo/assets/93632064/92cac007-a6a4-49e2-baad-b950105b98ac)## Full Stack TodoList Apllication Using 
+## Full Stack TodoList Apllication Using 
 ## Frontend: React.js, JavaScript, HTML5, CSS3
 ## Backend: Spring Boot, Java, RESTful API
 ## Database: H2, MySql(or any other preferred database)
@@ -34,13 +34,13 @@ For the Backend SpringBoot,Node.js,JPA were Used
 
 
 Created the 7 Components for the specific for React APllication
-### 1)login
-### 2)Logout
+### 1)login Component
+### 2)Logout Component
 ### 3)Welcome Component
 ### 4)Header Component
 ### 5)Error Component
 ### 6)Footer Component
-### 7)Todo Component**
+### 7)Todo Component
 
 ![image](https://github.com/Ajjuajith14/app_todo/assets/93632064/d3e161be-9407-44ce-928c-0aaf635065cb)
 
