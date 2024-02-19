@@ -1,3 +1,63 @@
+# Builded a Full Stack TodoList Apllication using React.js as FrontEnd and SpringBoot framework with H2 Database
+
+
+Starting with the Creating the Rest API of the User of TODO LIST APPLICATION with 
+# 1)Id
+# 2)Description
+# 3)Date
+# 4)Username
+# 5)Pending 
+
+Implemented CRUD (Create, Read, Update, Delete) operations using Spring Boot
+# 1)Get
+# 2)POST
+# 3)Delete
+# 4)PUT
+
+And Used the H2 and SQL for the retriveing data from database and used JDBC for connecting the database....
+For the Front End JavaScript and React.js were Used..
+For the Backend SpringBoot,Node.js,JPA were Used
+
+Created the 7 Components for the specific for React APllication
+**1)login
+2)Logout
+3)Welcome Component
+4)Header Component
+5)Error Component
+6)Footer Component
+7)Todo Component**
+
+# And Integerated Backend with the port of **http://localhost:8080** with Front end **http://localhost:3000**
+
+# Using the Spring Security for Basic Autherization
+
+# Using the POSTMAN and Talent Tester API from Post request...
+
+Dependices that were used
+**1)spring-boot-starter-web
+2)spring-boot-starter-data-jpa
+3)com.h2database
+4)spring-boot-starter-validation
+5)spring-boot-devtools
+6)spring-boot-starter-test**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
