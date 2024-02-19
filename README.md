@@ -59,11 +59,12 @@ Dependices that were used
 ### 5)spring-boot-devtools
 ### 6)spring-boot-starter-test
 
-# Getting Started with Create React App
+
+### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
