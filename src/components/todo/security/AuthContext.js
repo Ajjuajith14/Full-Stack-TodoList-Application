@@ -27,7 +27,7 @@ export default function AuthProvider({ children }) {
  //setInterval(() => setNumber(number+2), 2000)
  
     function login(username,password){
-        if(username==='usergiri' && password==='dummy')
+        if(username==='' && password==='')
             {
                 setAuthenticated(true)
                 //setUsername(username)
